@@ -1,0 +1,18 @@
+[
+  {
+    "package": "foghorn",
+    "oncran": true
+  },
+  {
+    "package": "phylobase",
+    "oncran": true
+  },
+  {
+    "package": "riceware",
+    "oncran": true
+  },
+  {
+    "package": "rncl",
+    "oncran": true
+  }
+]
