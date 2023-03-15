@@ -1,9 +1,5 @@
 [
   {
-    "package": "rncl",
-    "oncran": true
-  },
-  {
     "package": "foghorn",
     "oncran": true
   },
@@ -13,6 +9,10 @@
   },
   {
     "package": "riceware",
+    "oncran": true
+  },
+  {
+    "package": "rncl",
     "oncran": true
   }
 ]
