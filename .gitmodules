@@ -1,25 +1,16 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "foghorn"]
 	path = foghorn
 	url = https://github.com/fmichonneau/foghorn
-	shallow = true
-	registered = true
 [submodule "phylobase"]
 	path = phylobase
 	url = https://github.com/fmichonneau/phylobase
-	shallow = true
-	registered = true
 [submodule "riceware"]
 	path = riceware
 	url = https://github.com/fmichonneau/riceware
-	shallow = true
-	registered = true
 [submodule "rncl"]
 	path = rncl
 	url = https://github.com/fmichonneau/rncl
-	shallow = true
-	registered = true
